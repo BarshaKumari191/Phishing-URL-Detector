@@ -26,7 +26,7 @@ pip install python-whois
 
 ## Run
 
-phishing_detector.py
+ python phishing_detector.py
 
 ## Example
 
